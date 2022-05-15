@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".PatternLockActivity">
+    <ImageView
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/locked"/>
+    <TextView
+        android:id="@+id/textView"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Nhập mật khẩu để vào"/>
+    <com.andrognito.patternlockview.PatternLockView
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="280dp"
+        app:normalStateColor="@color/grey_300"
+        app:wrongStateColor="@color/red"
+        app:correctStateColor="@color/green"
+        android:layout_height="280dp"
+        android:id="@+id/pattern_lock_view"/>
+
+</LinearLayout>

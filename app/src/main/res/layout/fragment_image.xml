@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ImageFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageByDateRecyclerView"/>
+        <com.google.android.material.bottomappbar.BottomAppBar
+            android:id="@+id/bottomAppBar"
+            android:layout_centerInParent="true"
+            android:layout_alignParentBottom="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:backgroundTint="@android:color/transparent"
+            android:padding="10dp"
+            app:hideOnScroll="true"
+            app:elevation="0dp"
+            style="@style/Widget.MaterialComponents.BottomAppBar.Colored"
+            tools:ignore="BottomAppBar">
+            <com.google.android.material.tabs.TabLayout
+                android:id="@+id/bottomTabLayout"
+                android:elevation="0dp"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                app:tabTextColor="@color/grey_300"
+                app:tabSelectedTextColor="@color/black"
+                app:tabIndicatorGravity="stretch"
+                app:tabIndicatorColor="@android:color/transparent"
+                app:tabIndicator="@drawable/tab_layout_fg"
+
+                app:tabGravity="center"
+                app:tabMinWidth="120dp"
+                android:background="@drawable/tab_layout_bg"
+                app:tabTextAppearance="@style/CustomBottTabText"
+                android:textAlignment="gravity"
+                android:layout_gravity="center"
+                android:theme="@style/CustomPopupMenu"
+                >
+                <com.google.android.material.tabs.TabItem
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Tất cả"/>
+                <com.google.android.material.tabs.TabItem
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Camera"/>
+            </com.google.android.material.tabs.TabLayout>
+        </com.google.android.material.bottomappbar.BottomAppBar>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</FrameLayout>

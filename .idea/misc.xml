@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/animalionl_list.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/black.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/blue.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.1515625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/button_bg.xml" value="0.1515625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/check.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/checkbox_selector.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/custom_album_icon.xml" value="0.1203125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/custom_popup_background.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/gradient.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/ic_check_circle.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/ic_checked_favorite.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/ic_edit_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/rounded_bg.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/tab_layout_bg.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/tab_layout_fg.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/tab_selector.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/tabselector.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/uncheck.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/drawable/yellow.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/action_mode_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/activity_album.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/activity_album_popup_menu.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/activity_detail_info.xml" value="0.34701492537313433" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/activity_edit_image.xml" value="0.1171875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/activity_image.xml" value="0.115625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/activity_main.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/activity_pattern_lock.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/activity_test.xml" value="0.15" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/album_item.xml" value="0.4" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/bottom_sheet_detail_info.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/date_image_item.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/detail_info_bottom_sheet.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/fragment_album.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/fragment_image.xml" value="0.2192" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/image_item.xml" value="0.144" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/popup_album_menu_item.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/layout/viewpager_image_item.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/menu/ablum_menu.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/menu/album_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/menu/bottom_action_menu.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/menu/bottom_navigation_favorite_menu.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/menu/bottom_navigation_meu.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/menu/clear_all_menu.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/menu/detail_image_menu.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/menu/image_menu.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/menu/mutil_select_menu.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/mipmap-anydpi-v26/ic_edit.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/CloneGallery/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

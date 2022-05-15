@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bottom_sheet_bg"
+    android:layout_height="match_parent"
+    android:id="@+id/bottomSheetLayout">
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/detailInfo"
+        android:textColor="@color/black"
+        android:textAlignment="textStart"
+        android:fontFamily="@font/roboto_black"
+        android:textAllCaps="false"
+        android:textSize="20dp"
+        android:background="@android:color/transparent"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chi tiết"/>
+    <Button
+        android:background="@android:color/transparent"
+        android:textAlignment="textStart"
+        android:textColor="@color/black"
+        android:textAllCaps="false"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/slideShow"
+        android:fontFamily="@font/roboto_black"
+        android:textSize="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Slide Show"/>
+    <Button
+        android:background="@android:color/transparent"
+        android:textAlignment="textStart"
+        android:textColor="@color/black"
+        android:textAllCaps="false"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/setScreenBackground"
+        android:fontFamily="@font/roboto_black"
+        android:textSize="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Đặt làm hình nền"/>
+
+</LinearLayout>

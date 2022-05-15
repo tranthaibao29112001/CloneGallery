@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu  xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/share"
+        android:enabled="true"
+        android:icon="@drawable/ic_share"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/edit"
+        android:enabled="true"
+        android:icon="@drawable/ic_edit"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/favorite"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/delete"
+        android:enabled="true"
+
+        android:icon="@drawable/ic_delete"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/more"
+        android:enabled="true"
+        android:icon="@drawable/ic_more"
+        tools:ignore="MenuTitle" />
+</menu>
